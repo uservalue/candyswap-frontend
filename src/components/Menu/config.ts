@@ -53,6 +53,10 @@ const config: MenuEntry[] = [
         label: 'QuickSwap',
         href: 'https://info.quickswap.exchange/token/0x692ca411d82DeB4A96F8f89E173171b4Af83Badf',
       },
+      {
+        label: 'Vfat Tools',
+        href: 'https://vfat.tools/polygon/polyswan/',
+      },
     ],
   },
   {
