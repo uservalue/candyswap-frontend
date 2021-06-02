@@ -57,6 +57,10 @@ const config: MenuEntry[] = [
         label: 'Vfat Tools',
         href: 'https://vfat.tools/polygon/polyswan/',
       },
+      {
+        label: 'DappRadar',
+        href: 'https://dappradar.com/polygon/defi/polyswan-finance',
+      },
     ],
   },
   {
