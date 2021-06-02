@@ -74,9 +74,9 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Audit (SOON)',
+    label: 'Audit by Techrate',
     icon: 'AuditIcon',
-    href: 'https://polyswan.finance/',
+    href: 'https://polyswan.finance/files/audit.pdf',
   },
 ]
 
