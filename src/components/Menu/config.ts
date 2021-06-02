@@ -76,7 +76,7 @@ const config: MenuEntry[] = [
   {
     label: 'Audit by Techrate',
     icon: 'AuditIcon',
-    href: 'https://polyswan.finance/files/audit.pdf',
+    href: 'https://github.com/PolySwanFinance/polyswan-frontend/blob/main/files/audit.pdf',
   },
 ]
 
