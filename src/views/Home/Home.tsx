@@ -95,7 +95,6 @@ const Home: React.FC = () => {
       <Heading as="h1" size="xl" mb="24px" color="secondary" >
           {TranslateString(579, 'Yield Farming has begun.')}
         </Heading>
-        <Timer />
       <Hero>
         <Heading as="h1" size="xl" mb="24px" color="secondary">
           {TranslateString(576, 'PolySwan Finance')}
