@@ -252,6 +252,23 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.USDC,
     quoteTokenAdresses: contracts.usdc,
   },
+  
+  {
+    pid: 12,
+    risk: 1,
+    isTokenOnly: true,
+    lpSymbol: 'FISH',
+    decimal: 18,
+    lpAddresses: {
+      137: '0x0df9e46c0eaedf41b9d4bbe2cea2af6e8181b033'
+    },
+    tokenSymbol: 'FISH',
+    tokenAddresses: {
+      137: '0x3a3df212b7aa91aa0402b9035b098891d276572b'
+    },
+    quoteTokenSymbol: QuoteToken.USDC,
+    quoteTokenAdresses: contracts.usdc,
+  },
 
 
 
